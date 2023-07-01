@@ -10,4 +10,4 @@ The following low-level design patterns are covered in this repository:
 
 2. **Observer Pattern**: The Observer Pattern establishes a one-to-many relationship between a subject (publisher) and multiple observers. The subject notifies the observers automatically whenever its state changes, promoting loose coupling between them.
 
-3. **Decorator Pattern**
+3. **Decorator Pattern**:
