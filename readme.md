@@ -1,6 +1,6 @@
 # Low-Level Design Patterns
 
-This repository contains a collection of low-level design patterns, along with examples and explanations. Each design pattern addresses a specific software design problem and provides a reusable solution that promotes code reusability, flexibility, and maintainability. Currently this blog is in progress and I have uploaded few things here and I will update this blog from time to time in future.
+This repository contains a collection of low-level design patterns, along with examples and explanations. Each design pattern addresses a specific software design problem and provides a reusable solution that promotes code reusability, flexibility, and maintainability. ***Currently this blog is in progress and I have uploaded few things here and I will update this blog from time to time in future.***
 
 ## Decorator Pattern 
 <img style="position: fixed; top: 0; right:0; width:200px; height: 60px;" src="./decorator pattern/decoratorpatternlogo.svg"/>
