@@ -4,7 +4,8 @@
 This repository contains a collection of low-level design patterns, along with examples and explanations. Each design pattern addresses a specific software design problem and provides a reusable solution that promotes code reusability, flexibility, and maintainability. ***Currently this blog is in progress and I have uploaded few things here and I will update this blog from time to time in future.***
 
 ## Decorator Pattern 
-<img style="position: fixed; top: 0; right:0; width:200px; height: 60px;" src="./decorator pattern/decoratorpatternlogo.svg"/>
+![logo](./decorator%20pattern/decorator_logo.svg)    
+
 Decorator pattern is a structural pattern which is used to dynamically add new functionality and behaviour to an object without altering its source code.
 This is usefull when you want to add new functionality on top of an object not on class, means if you want add new functionality to few objects of class rather than all objects then in that case this pattern could be usefull.
 
@@ -29,4 +30,4 @@ Let's consider an example: Suppose you receive an order for masala chai without 
 
 This approach eliminates the need to define numerous new classes for each possible chai variation, and importantly, it doesn't require any changes to the source code of the main "Chai" class. This flexibility and extensibility make the Decorator Pattern a powerful tool for managing complex and evolving class hierarchies.
 
-![explosion of classes](./decorator%20pattern/decoratorpattern_example.svg)    
+![explosion of classes](./decorator%20pattern/decorator_example.svg)    
