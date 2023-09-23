@@ -29,4 +29,4 @@ Let's consider an example: Suppose you receive an order for masala chai without 
 
 This approach eliminates the need to define numerous new classes for each possible chai variation, and importantly, it doesn't require any changes to the source code of the main "Chai" class. This flexibility and extensibility make the Decorator Pattern a powerful tool for managing complex and evolving class hierarchies.
 
-![explosion of classes](./decorator%20pattern/decoratorpattern_example.html)    
+![explosion of classes](./decorator%20pattern/decoratorpattern_example.svg)    
